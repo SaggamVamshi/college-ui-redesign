@@ -1,2 +1,13 @@
-# college-ui-redesign
-Responsive college website UI redesign using Figma
+# College Website UI Redesign
+
+## Features
+- Desktop UI
+- Mobile UI
+- Responsive Design
+- High-Fidelity Mockup
+
+## Tools Used
+- Figma
+
+## Author
+Saggam Vamshi
